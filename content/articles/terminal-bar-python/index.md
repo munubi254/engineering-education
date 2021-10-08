@@ -192,7 +192,7 @@ bar.finish()
 We let the bar delay for a second before incrementing(`time.sleep(1)`).
 
 It will display this:
-```
+```bash
 Downloading ▣▣▣▣▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢ 15%
 ```
 It has a lot of different types of bars to choose from. Find them out in its documentation.
